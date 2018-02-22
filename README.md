@@ -1,18 +1,17 @@
-# The Data Chef
 
 ![chef hat](https://darylcheong.github.io/images/chef_hat.png)
 
-### What is a Data Chef?
+# What is a Data Chef?
 
 
 
-### About
+# About
 Aspiring data chef looking to bring his business acumen and analytical mind to the table and cook up some amazing data insights. A meticulous and detail-oriented individual with 8 years working experience in the Singapore F&B industry, strong business knowledge and entrepreneurial spirit. A keen interest and curiosity in food tech. Reliable and committed to a high standard of service, performance and integrity.  
 
-### Projects
+# Projects
 [Captstone Project - Predicting Sales Opportunities](https://darylcheong.github.io/GA-Capstone/)
 
-### Skills
+# Skills
 **Data Science**  
 * Python
 * Data Munging
@@ -38,7 +37,7 @@ Aspiring data chef looking to bring his business acumen and analytical mind to t
 * Western Cuisine
 * Desserts
 
-### Contact
+# Contact
 Email: daryl.cheong2@gmail.com  
 [GitHub](https://github.com/DarylCheong)  
 [Linkedin](https://www.linkedin.com/in/darylcheong/)  
